@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contain_metodu/1.0.0": {
+        "runtime": {
+          "Contain_metodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contain_metodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

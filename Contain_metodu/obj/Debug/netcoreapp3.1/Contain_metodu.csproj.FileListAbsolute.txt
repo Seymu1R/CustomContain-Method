@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\bin\Debug\netcoreapp3.1\Contain_metodu.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Contain_metod\Contain_metodu\Contain_metodu\obj\Debug\netcoreapp3.1\Contain_metodu.genruntimeconfig.cache
